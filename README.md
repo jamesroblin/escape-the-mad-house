@@ -6,6 +6,7 @@ A co-operative card game of improvised stories and escaping ridiculous situation
 
 - [Escape the Mad House](#escape-the-mad-house)
   - [Table of Contents](#table-of-contents)
+  - [What's in the Box](#whats-in-the-box)
   - [Rules](#rules)
     - [Setup](#setup)
     - [Round](#round)
@@ -16,6 +17,11 @@ A co-operative card game of improvised stories and escaping ridiculous situation
       - [Continue](#continue)
 
 Find all **bold** [definitions here](DEFINITIONS.md).
+
+## What's in the Box
+
+The game is currently in a prototype phase, you can find the current game content used for these
+play tests in the [resources](RESOURCES.md).
 
 ## Rules
 
@@ -33,15 +39,15 @@ You've just arrived home from a long day at your job as an accountant. You open 
 
 On encountering the shear madness of the mad house, you're split personalities start triggering.
 
-> Shuffle the **Personality Cards** and place the pile face down in the middle of the table. This is the **Personality Deck**. 
+> Shuffle the **Personality Cards** and place the pile face down in the middle of the table. This is the **Personality Deck**.
 >
 > Distribute one of each **Reaction Card** to every player.
 
 Derek, you better find your way out of this mad house. It looks dangerous and full of strange things.
 
-> Randomly pick an **Exit Card** and place it on the bottom of the **Room Deck**. 
+> Randomly pick an **Exit Card** and place it on the bottom of the **Room Deck**.
 >
-> You're objective is to progress through every **Room Card** in the **Room Deck** until you get to and resolve the **Exit Card**. 
+> You're objective is to progress through every **Room Card** in the **Room Deck** until you get to and resolve the **Exit Card**.
 >
 > Pick a the person who did the craziest thing today to be the first **Active Player**.
 
@@ -55,7 +61,7 @@ Okay Derek, game face on, let's see what's in this room.
 
 The trauma of such a room has triggered one of your split personalities to come out.
 
-> The **Active Player** draws a **Personality Card**, and keeps the contents of the card secret from all other players. 
+> The **Active Player** draws a **Personality Card**, and keeps the contents of the card secret from all other players.
 >
 > This card will specify a **Success Reaction** that the **Active Player** wants the **Non Active Players** to guess based off their **Narration**.
 >
@@ -71,9 +77,9 @@ Oh no this room sounds terrible! Luckily, Derek, as you look around you notice s
 
 Oh Derek, you have got yourself into a bit of a pickle. Let's see what you decide to do.
 
-> The **Active Player** must now narrate to the rest of the players how they resolve the situation presented by the **Room Card**. 
+> The **Active Player** must now narrate to the rest of the players how they resolve the situation presented by the **Room Card**.
 >
-> They must use at least 1 of the **Item Cards** in front of them. 
+> They must use at least 1 of the **Item Cards** in front of them.
 >
 > Their goal is to get the **Non Active Players** to pick the matching **Success Reaction** present on the **Active Players** **Personality Card**, whilst making sure they won't pick the **Critical Fail Reaction**.
 >
@@ -83,7 +89,7 @@ Oh Derek, you have got yourself into a bit of a pickle. Let's see what you decid
 
 Wow, Derek, wow. What a fascinating way of trying to exit the room. Let's see how you did.
 
-> Each **Non Active Player** thinks about what **Success Reaction** the **Active Player** may have had on their **Personality Card**, based off the **Narration** they just told. They pick one of their **Reaction Cards** and places it face down in front of them. 
+> Each **Non Active Player** thinks about what **Success Reaction** the **Active Player** may have had on their **Personality Card**, based off the **Narration** they just told. They pick one of their **Reaction Cards** and places it face down in front of them.
 >
 > When every **Non Active Player** is ready, they all reveal their chosen **Reaction Card**. If one card has a majority, that is the **Final Reaction Card**, if there is a tie the **Next Active Player** gets to decide which one is the **Final Reaction Card**.
 >
