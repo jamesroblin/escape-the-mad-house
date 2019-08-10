@@ -26,18 +26,18 @@ The things written on each card.
 
 | Main Text    | Flavour Text  |
 | ------------ | ------------- |
-| Unlikely     | Hmmmm         |
+| Brutal       | Daaaam        |
+| Clever       | Noice         |
+| Confusing    | Errr... What? |
+| Disgusting   | Oh God        |
+| Entertaining | Yeah Buddy    |
+| Erotic       | Oooooo        |
 | Funny        | Lolz          |
 | Horrifying   | Aaaargh       |
 | Lame         | Boo           |
-| Entertaining | Yeah Buddy    |
-| Stupid       | Why!?         |
-| Clever       | Noice         |
-| Erotic       | Oooooo        |
-| Disgusting   | Oh God        |
-| Brutal       | Daaaam        |
-| Confusing    | Errr... What? |
 | Silly        | Chortle       |
+| Stupid       | Why!?         |
+| Unlikely     | Hmmmm         |
 | Unusual      | Curious       |
 
 ### Personality Cards
