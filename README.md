@@ -37,13 +37,13 @@ You're a fancy man Derek, you're house has lots of rooms.
 
 You've just arrived home from a long day at your job as an accountant. You open your front door and step in. Oh no, the door behind you closes and you’ve entered the mad house!
 
-On encountering the shear madness of the mad house, you're split personalities start triggering.
+On encountering the shear madness of the mad house, your split personalities start triggering. You're going to have to work hard to keep them all working together if you want to survive this mad house!
 
 > Shuffle the **Personality Cards** and place the pile face down in the middle of the table. This is the **Personality Deck**.
 >
 > Distribute one of each **Reaction Card** to every player.
 
-Derek, you better find your way out of this mad house. It looks dangerous and full of strange things.
+Derek, you better find your way out of this place. It looks dangerous and full of strange things.
 
 > Randomly pick an **Exit Card** and place it on the bottom of the **Room Deck**.
 >
@@ -55,11 +55,7 @@ Derek, you better find your way out of this mad house. It looks dangerous and fu
 
 #### Situation
 
-Okay Derek, game face on, let's see what's in this room.
-
-> The **Active Player** draws the top room card and places it face up on the table. They read out the situation on the card.
-
-The trauma of such a room has triggered one of your split personalities to come out.
+The trauma of the mad house has triggered one of your split personalities to come out.
 
 > The **Active Player** draws a **Personality Card**, and keeps the contents of the card secret from all other players.
 >
@@ -69,9 +65,13 @@ The trauma of such a room has triggered one of your split personalities to come 
 >
 > (Finish reading the **Round** and hopefully this should all become clear)
 
+Okay Derek, your current personality is in place. Game face on, let's see what's in this room.
+
+> The **Active Player** draws the top room card and places it face up on the table. They read out the situation on the card.
+
 Oh no this room sounds terrible! Luckily, Derek, as you look around you notice some items that might help you escape this room.
 
-> The **Active Player** draws 3 **Item Cards** and places them face up on the table. They annouce the title of each card as they do.
+> The **Active Player** draws 2 **Item Cards** and places them face up on the table. They announce the title of each card as they do.
 
 #### Narration
 
@@ -83,6 +83,10 @@ Oh Derek, you have got yourself into a bit of a pickle. Let's see what you decid
 >
 > Their goal is to get the **Non Active Players** to pick the matching **Success Reaction** present on the **Active Players** **Personality Card**, whilst making sure they won't pick the **Critical Fail Reaction**.
 >
+> They only have 1 minute to narrate their escape. Start the **Timer**.
+>
+> NOTE: All other players must not be able to look at their **Reaction Cards** during the **Narration**. Otherwise it distracts them from listening to the story.
+>
 > (See how the Result step works for clarity)
 
 #### Result
@@ -91,7 +95,9 @@ Wow, Derek, wow. What a fascinating way of trying to exit the room. Let's see ho
 
 > Each **Non Active Player** thinks about what **Success Reaction** the **Active Player** may have had on their **Personality Card**, based off the **Narration** they just told. They pick one of their **Reaction Cards** and places it face down in front of them.
 >
-> When every **Non Active Player** is ready, they all reveal their chosen **Reaction Card**. If one card has a majority, that is the **Final Reaction Card**, if there is a tie the **Next Active Player** gets to decide which one is the **Final Reaction Card**.
+> When every **Non Active Player** is ready, they all reveal their chosen **Reaction Card**. If one card has a majority, that is the **Final Reaction Card**.
+>
+> If there is a tie the **Non Active Players** get 1 minute to debate their choices. Start the **Timer**. The **Next Active Player** then gets to decide which one is the **Final Reaction Card**.
 >
 > If the **Final Reaction Card** matches the **Success Reaction** the **Result** is a **Success**
 >
@@ -105,7 +111,7 @@ Great, you now know has successful you were. What happened?
 
 > Match your **Result** with the **Consequence** on the **Room Card**, and follow the instructions
 >
-> If there are no more **Health Tokens** on the **Derek Card**, Derek has died and every player loses the game
+> If there are no more **Health Tokens** on the **Derek Card**, Derek has died and every player loses the game.
 >
 > If the **Consequence** says you have exited the mad house, you have won! Congratulations.
 >
