@@ -37,15 +37,39 @@ The things written on each card.
 | Disgusting   | Oh God        |
 | Brutal       | Daaaam        |
 | Confusing    | Errr... What? |
+| Silly        | Chortle       |
+| Unusual      | Curious       |
 
 ### Personality Cards
 
-For the current play tests, we have just been picking 2 random **Reaction Cards** from the
-**Active Players** hand, 1 is the **Success Reaction** the other is the **Critical Fail Reaction**.
-
-This is going to change, as we found it's important to specifically pair the **Success Reaction**
-and **Critical Fail Reaction** to be quite similar, to increase the stakes and likelihood of a
-**Critical Fail**.
+| Success Reaction | Critical Fail Reaction |
+| ---------------- | ---------------------- |
+| Brutal           | Disgusting             |
+| Brutal           | Horrifying             |
+| Clever           | Confusing              |
+| Confusing        | Lame                   |
+| Disgusting       | Brutal                 |
+| Disgusting       | Horrifying             |
+| Entertaining     | Clever                 |
+| Entertaining     | Silly                  |
+| Erotic           | Disgusting             |
+| Erotic           | Funny                  |
+| Funny            | Entertaining           |
+| Horrifying       | Brutal                 |
+| Horrifying       | Erotic                 |
+| Lame             | Unlikely               |
+| Lame             | Unusual                |
+| Silly            | Entertaining           |
+| Silly            | Funny                  |
+| Silly            | Stupid                 |
+| Stupid           | Confusing              |
+| Stupid           | Funny                  |
+| Stupid           | Unlikely               |
+| Unlikely         | Clever                 |
+| Unlikely         | Confusing              |
+| Unusual          | Clever                 |
+| Unusual          | Erotic                 |
+| Unusual          | Lame                   |
 
 ### Room Cards
 

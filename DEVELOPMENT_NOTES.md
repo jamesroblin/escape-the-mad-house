@@ -6,3 +6,4 @@
   And try with the flavour text being more prominent than the title currently is.
 - Add fun flavour text for when the character dies. Definitely on each Exit Card, but also have a
   generic one in the rules.
+- Need something closer to Erotic? Romantic?
