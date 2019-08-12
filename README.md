@@ -16,8 +16,6 @@ A co-operative card game of improvised stories and escaping ridiculous situation
       - [Consequences](#consequences)
       - [Continue](#continue)
 
-Find all **bold** [definitions here](DEFINITIONS.md).
-
 ## What's in the Box
 
 The game is currently in a prototype phase, you can find the current game content used for these
