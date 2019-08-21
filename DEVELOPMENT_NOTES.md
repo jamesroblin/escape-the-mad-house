@@ -13,3 +13,5 @@
   background situation happened.
 - could have a little board representing a room, where you place the room card, items and derek?
   Although makes it a bit harder to handle
+- Test out having other players choose the item cards for the room, their choice, from their hand.
+  Giving more collaboration and interaction between players
