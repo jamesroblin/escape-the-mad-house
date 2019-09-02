@@ -1,5 +1,7 @@
 # Escape the Mad House
 
+![Escape the Mad House v3](assets/escape-the-madhouse-v3.jpg)
+
 A co-operative card game of improvised stories and escaping ridiculous situations.
 
 ## Table of Contents
