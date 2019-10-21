@@ -31,7 +31,7 @@ Hello Derek, you're just another person, living the life of a person.
 
 > Place the **Derek Card** in the middle of the table, place 6 **Health Tokens** on the card
 
-You're a fancy man Derek, you're house has lots of rooms.
+You're a fancy man Derek, your house has lots of rooms.
 
 > Shuffle the **Room Cards** and place them face down in the center of the table. This is the **Room Deck**
 
